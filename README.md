@@ -1,0 +1,2 @@
+# AI-ML-for-Breast-Cancer-Prediction-Improving-Early-Detection
+Breast cancer is a major cause of death among women, and early detection is vital. FNA cytology helps classify tumors but depends on manual interpretation, leading to errors and delays. This project proposes a machine learning system to analyze cytological features, offering fast, reliable predictions to aid diagnosis and support early treatment.
